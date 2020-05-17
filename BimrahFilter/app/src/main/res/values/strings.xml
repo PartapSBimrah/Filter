@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageFilter</string>
+    <string name="action_settings">Settings</string>
+    <string name="pick_image">Pick Image</string>
+</resources>
